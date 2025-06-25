@@ -702,7 +702,7 @@ li
   header nav .nav-sections ul > li.nav-drop .submenu-header hr {
     margin: 0;
     position: absolute;
-    top: var(--spacing-large);
+    top: var(--spacing-xxbig);
     width: 320px;
   }
 
